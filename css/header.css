@@ -5,8 +5,9 @@
     background-color: #28D141;
     height: 50px;
     margin: 20px;
+    font-weight: bold;
 }
 .titulo{
     color: black;
-    font-weight: bold;
+    
 }
